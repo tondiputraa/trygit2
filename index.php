@@ -12,5 +12,12 @@
      orporis nesciunt aliquam, aut, non sint laboriosam quis beatae iure corrupti 
      esse odit distinctio id quod atque quae eum ab!
 </p>
+<ul>
+<li>satu</li>
+<li>dua</li>
+<li>tiga</li>
+
+
+</ul>
 </body>
 </html>
